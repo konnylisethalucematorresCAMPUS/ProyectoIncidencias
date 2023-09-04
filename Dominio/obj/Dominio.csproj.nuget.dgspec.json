@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\APM01-44\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -41,6 +41,10 @@
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
             },
             "itext7.pdfhtml": {
               "target": "Package",

@@ -5,10 +5,10 @@ namespace Aplicacion.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork, IDisposable
     {
-        private readonly ApiContext context;
-        private RolRepository _roles;
-        private IUsuarioRepository _usuarios;
-        public UnitOfWork(ApiContext _context)
+        private readonly ApiContext  context;
+        private RolRepository ? _roles;
+        private IUsuarioRepository ? _usuarios;
+        public UnitOfWork(ApiContext  _context)
         {
             context = _context;
         }
@@ -31,6 +31,7 @@ namespace Aplicacion.UnitOfWork
                 if (_usuarios == null)
                 {
                     _usuarios = new UsuarioRepository(context);
+               
                 }
                 return _usuarios;
             }

@@ -12,8 +12,8 @@ namespace Persistencia
         {
         }
         public DbSet<Usuario> ? Usuarios { get; set; }
-        public DbSet<Rol> Roles { get; set;}
-        public DbSet<UsuariosRoles> UsuariosRoles { get; set; }        
+        public DbSet<Rol> ? Roles { get; set;}
+        public DbSet<UsuariosRoles> ? UsuariosRoles { get; set; }        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Usuario>().HasIndex(idx => idx.Username).IsUnique();

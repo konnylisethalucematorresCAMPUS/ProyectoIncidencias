@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM01-44\\Documents\\Skeleton\\Seguridad\\Seguridad.csproj": {}
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Seguridad\\Seguridad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\APM01-44\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj"
+              "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj"
               },
-              "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\APM01-44\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -102,6 +102,10 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "itext7.pdfhtml": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -127,17 +131,17 @@
         }
       }
     },
-    "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\APM01-44\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -149,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Dominio\\Dominio.csproj"
+              "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -194,17 +198,17 @@
         }
       }
     },
-    "c:\\Users\\APM01-44\\Documents\\Skeleton\\Seguridad\\Seguridad.csproj": {
+    "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Seguridad\\Seguridad.csproj",
-        "packagesPath": "C:\\Users\\APM01-44\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-44\\Documents\\Skeleton\\Seguridad\\obj\\",
+        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Seguridad\\Seguridad.csproj",
+        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM01-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -216,8 +220,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Users\\APM01-44\\Documents\\Skeleton\\Aplicacion\\Aplicacion.csproj"
+              "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\Skeleton\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
