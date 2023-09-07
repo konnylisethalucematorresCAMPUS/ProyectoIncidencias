@@ -5686,11 +5686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj",
+      "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj",
+      "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Seguridad\\Seguridad.csproj",
       "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\obj\\",
+      "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5705,8 +5705,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

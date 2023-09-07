@@ -5050,11 +5050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj",
+      "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\obj\\",
+      "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias-1\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
