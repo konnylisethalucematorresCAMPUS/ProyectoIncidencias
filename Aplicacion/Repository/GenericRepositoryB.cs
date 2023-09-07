@@ -6,7 +6,7 @@ using Persistencia;
 
 namespace Aplicacion.Repository;
 
-public class GenericRepositoryB<T> : IGenericRepositoryB<T> where T : BaseEntityA
+public class GenericRepositoryB<T> : IGenericRepository<T> where T : BaseEntity
 {
     private readonly ApiContext _context;
 

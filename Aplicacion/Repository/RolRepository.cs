@@ -1,15 +1,13 @@
-using Dominio;
 using Dominio.Interfaces;
+using Entities;
 using Persistencia;
 
 namespace Aplicacion.Repository;
 
-public class RolRepository : GenericRepositoryB<Rol>, IRolRepository
+public class RolRepository : GenericRepository<Rol>, IRolRepository
 {
-    private readonly ApiContext _context;
-
     public RolRepository(ApiContext context) : base(context)
-    {
-        _context = context;
+    {  
+        
     }
 }

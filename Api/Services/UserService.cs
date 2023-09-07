@@ -39,6 +39,7 @@ namespace ApiIncidencias.Services
                 Username = registerDto.Username,
             };
 
+
             // Se hashea la contraseña del usuario y se almacena en el objeto.
             usuario.Password = _passwordHasher.HashPassword(usuario, registerDto.Password!);
 
@@ -51,11 +52,11 @@ namespace ApiIncidencias.Services
             {
                 // Si el usuario no existe, se le asigna un rol predeterminado y se guarda en la base de datos.
                 var rolPredeterminado = _unitOfWork.Roles
-                    .Find(u => u.Nombre == Autorizacion.rol_predeterminado.ToString())
+                    .Find(u => u.Name_Rol == Autorizacion.rol_predeterminado.ToString())
                     .First();
                 try
                 {
-                    usuario.Roles.Add(rolPredeterminado);
+                    usuario.Rol.Add(rolPredeterminado);
                     _unitOfWork.Usuarios.Add(usuario);
                     await _unitOfWork.SaveAsync();
 
@@ -100,7 +101,7 @@ namespace ApiIncidencias.Services
                 datosUsuarioDto.Token = new JwtSecurityTokenHandler().WriteToken(jwtSecurityToken);
                 datosUsuarioDto.Email = usuario.Email;
                 datosUsuarioDto.UserName = usuario.Username;
-                datosUsuarioDto.Roles = usuario.Roles.Select(u => u.Nombre).ToList()!;
+                datosUsuarioDto.Roles = usuario.Rol.Select(u => u.Name_Rol).ToList()!;
                 return datosUsuarioDto;
             }
             
@@ -113,11 +114,11 @@ namespace ApiIncidencias.Services
         // Método privado para crear un token JWT.
         private JwtSecurityToken CreateJwtToken(Usuario usuario)
         {
-            var roles = usuario.Roles;
+            var roles = usuario.Rol;
             var roleClaims = new List<Claim>();
             foreach (var role in roles)
             {
-                roleClaims.Add(new Claim("roles", role.Nombre!));
+                roleClaims.Add(new Claim("rol", role.Name_Rol!));
             }
             
             // Se definen las reclamaciones del token, como el nombre de usuario, correo electrónico, etc.

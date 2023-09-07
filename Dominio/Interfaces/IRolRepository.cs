@@ -1,6 +1,13 @@
-namespace Dominio.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Entities;
 
-public interface IRolRepository : IGenericRepositoryB<Rol>
+namespace Dominio.Interfaces
 {
-
+    public interface IRolRepository : IGenericRepository<Rol> 
+    {
+        
+    }
 }

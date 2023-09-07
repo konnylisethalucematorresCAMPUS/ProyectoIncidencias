@@ -158,3 +158,13 @@ C:\Users\arcek\OneDrive\Imágenes\Skeleton\Api\obj\Debug\net7.0\scopedcss\bundle
 C:\Users\arcek\OneDrive\Imágenes\Skeleton\Api\obj\Debug\net7.0\Api.csproj.CopyComplete
 C:\Users\arcek\OneDrive\Imágenes\Skeleton\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
 C:\Users\arcek\OneDrive\Imágenes\Skeleton\Api\obj\Debug\net7.0\ref\Api.dll
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.dll
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\refint\Api.dll
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.pdb
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arcek\OneDrive\Imágenes\incidencesPoject\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache

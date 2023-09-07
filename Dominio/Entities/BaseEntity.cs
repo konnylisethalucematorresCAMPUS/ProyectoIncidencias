@@ -1,5 +1,8 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio;
-public class BaseEntity
+public class BaseEntity 
 {
-  public string ? Id { get; set; }  
+  [Key]
+  public int Id { get; set; }  
 }
