@@ -5681,19 +5681,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arcek\\.nuget\\packages\\": {}
+    "C:\\Users\\APM01-54\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Seguridad\\Seguridad.csproj",
+      "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Seguridad\\Seguridad.csproj",
-      "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Seguridad\\obj\\",
+      "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj",
+      "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5705,8 +5705,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

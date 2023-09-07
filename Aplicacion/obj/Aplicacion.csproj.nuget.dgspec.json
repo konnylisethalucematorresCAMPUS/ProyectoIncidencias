@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {}
+    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Aplicacion\\obj\\",
+        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\obj\\",
+        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -131,17 +131,17 @@
         }
       }
     },
-    "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\arcek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Persistencia\\obj\\",
+        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arcek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\arcek\\OneDrive\\Imágenes\\incidencesPoject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj"
               }
             }
           }
