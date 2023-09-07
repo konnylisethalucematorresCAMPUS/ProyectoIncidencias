@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Api\\Api.csproj": {}
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Api\\Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Api\\Api.csproj": {
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Api\\Api.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Api\\Api.csproj",
+        "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Api\\obj\\",
+        "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj"
               },
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,11 +121,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj"
               },
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -226,14 +226,14 @@
         }
       }
     },
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -248,8 +248,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -293,14 +293,14 @@
         }
       }
     },
-    "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj": {
+    "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\Seguridad.csproj",
+        "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Seguridad\\obj\\",
+        "outputPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -315,8 +315,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "c:\\Users\\APM01-54\\Pictures\\incidencesPoject\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Users\\APM01-54\\ProyectoIncidencias\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }
